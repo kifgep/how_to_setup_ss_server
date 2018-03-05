@@ -23,9 +23,14 @@
 使用```ssserver -c YOUR_CONFIG_FILE_PATH -d start```来启动。
 使用```ssserver -d stop```来停止。
 使用```ssserver -c YOUR_CONFIG_FILE_PATH -d restart```来重启。
-
+ 
+ 
+ 
 ---------
-
+ 
+ 
+ 
+ 
 ## Quick Set Up Your Shadowsocks Server
 
 This is a guide to lead you quick setup your shadowsocks server on you server running Ubuntu or any Linux server support Python.
