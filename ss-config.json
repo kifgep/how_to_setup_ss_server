@@ -1,0 +1,10 @@
+{
+    "timeout": 600,
+    "method": "rc4-md5",
+    "port_password":
+    {
+        "YOUR_PORT_1": "PASSWORD_1",
+        "YOUR_PORT_2": "PASSWORD_2",
+        "YOUR_PORT_3": "PASSWORD_3",
+    }
+}
